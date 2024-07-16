@@ -1,0 +1,65 @@
+.mr-3{
+    background-color: gray;
+
+}
+.mr-4{
+    background-color: aquamarine;
+    text-align: center;
+}
+.mb-1{
+    color: white;
+    text-align: center;
+}
+
+h2{
+    text-align: center;
+    color: orange;
+    font-size: 200%;
+    font-family:Arial;
+}
+
+h3{
+    text-align: center;
+    color: white;
+    font-size: 150%;
+    font-family:arial;
+}
+
+h4{
+    text-align: center;
+    color: rgb(29, 133, 29);
+    font-size: 140%;
+    font-family: courier;
+}
+
+
+p {
+    border: 2px solid white;
+    text-align: center  ;
+}
+
+.mb-p{
+    border: 2px solid powderblue;
+    padding: 30px;
+    border-radius: 15px;
+    color: white;
+    margin:60px;
+    
+}
+
+a{
+    text-align: center;
+    border: 2px solid white;
+    padding: 10px;
+    border-radius: 17px;
+    margin-left: 813px;
+    font-size: 30px;
+}
+
+img{
+width: 1500px;
+height: 600px;
+margin-top: 50px;
+margin-left: 150px;
+margin-bottom: 30px;
+}
